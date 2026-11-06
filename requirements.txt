@@ -1,0 +1,2 @@
+# Only dependency — used for PDF report generation
+reportlab>=4.0
